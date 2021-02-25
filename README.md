@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/Vrindagupta6828/Vrindagupta6828/master/assest/hello.gif" alt="hello" /> </p>
+<p align="center"> <img src="hello.gif" alt="hello" /> </p>
 <h1 align="center">Hola 👋, I'm  Kishor Raut</h1>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=kish-git.kish-git)
