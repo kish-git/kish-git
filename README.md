@@ -6,7 +6,7 @@
 
 ## Short Summary:
 
-I'm a Undergraduate Student currently undertaking a Bachelors in Computer Engineering from Sinhgad Academy of Engineering, Kondhwa - Pune. <b>SE CGPA - 8.46 <b/>
+I'm an Undergraduate Student currently undertaking a Bachelors in Computer Engineering from Sinhgad Academy of Engineering, Kondhwa - Pune. <br/> <b>SE CGPA - 8.46 <b/>
 <br/> I'm passionate about <b>Flutter Development and Data Science<b/>.
 <br/>
 - 🌱 I’m currently learning and working on <b>Flutter</b>.
