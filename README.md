@@ -22,14 +22,15 @@
 </br>
 
 <div class="row" padding = "70";>
-<img alt="Flutter" src ="https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white&style=plastic"/>
-<img alt="Python" src="https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white&style=plastic"/>
-<img alt="C++" src="https://img.shields.io/badge/-C++-darkblue?logo=c++&logoColor=white&style=plastic"/>
-<img alt="Java" src="https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=plastic"/>
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white&style=plastic"/>
-<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-yellow?logo=firebase&logoColor=white&style=plastic"/>
-<img alt="MongoDB" src ="https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white&style=plastic"/>
-<img alt="Git" src="https://img.shields.io/badge/-Git-black?logo=git&logoColor=white&style=plastic"/>  
+<img alt="Flutter" src ="https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white&style=plastic"/>  
+<img alt="Python" src="https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white&style=plastic"/>  
+<img alt="C++" src="https://img.shields.io/badge/-C++-darkblue?logo=c++&logoColor=white&style=plastic"/>  
+<img alt="Java" src="https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=plastic"/>  
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white&style=plastic"/>  
+<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-yellow?logo=firebase&logoColor=white&style=plastic"/>  
+<img alt="MongoDB" src ="https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white&style=plastic"/>  
+<img alt="IntelliJ" src ="https://img.shields.io/badge/-IntelliJ-red?logo=intellij&logoColor=white&style=plastic"/>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-black?logo=git&logoColor=white&style=plastic"/> 
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=plastic"/>
 </div>
 
