@@ -1,6 +1,6 @@
 <p align="center"> <img src="hello.gif" alt="hello" /> </p>
 <h1 align="center">👋, I'm  Kishor Raut</h1>
-<h3 align="center">A Passionate Flutter developer from India 👦🏻💻</h3>
+<h3 align="center">A Passionate Flutter Developer from India 👦🏻💻</h3>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=kish-git.kish-git)
 
