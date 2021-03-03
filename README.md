@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning and working on <b>Flutter</b>.
 - 🥅 2021 Goals : Contribute more to Open Source projects.👨🏻‍💻
 - ⚡ Fun fact : **Developer by Profession, Sportman by Heart.❤😉**
-- 
+
 
 
 ### Tech Stack and Tools: 
