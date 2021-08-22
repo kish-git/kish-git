@@ -1,4 +1,4 @@
-<p align="center"> <img src="hello.gif" alt="hello" /> </p>
+<!-- <p align="center"> <img src="hello.gif" alt="hello" /> </p> -->
 <h1 align="center">👋, I'm  Kishor Raut</h1>
 <h3 align="center">A Passionate Flutter Developer from India 👦🏻💻</h3>
 
@@ -7,18 +7,16 @@
 
 ## Short Summary:
 
-<b>_I'm an Undergraduate Student currently undertaking a Bachelors in Computer Engineering from Sinhgad Academy of Engineering, Kondhwa - Pune._ <br/> _SE CGPA - 8.46_
-<br/> _I'm passionate about Flutter Development and Data Science_<b/>.
+<b>_I'm currently undertaking a Bachelors in Computer Science from Sinhgad Academy of Engineering, Kondhwa - Pune._ <br/> _And my CGPA is 9.76_
 <br/>
   
-- 🌱 I’m currently learning and working on <b>Flutter</b>.
+- 🌱 I’m currently <b>Flutter Developer Intern</b> @ Simba Developers.
 - 🥅 2021 Goals : Contribute more to Open Source projects.👨🏻‍💻
 - ⚡ Fun fact : **Developer by Profession, Sportman by Heart.❤😉**
 
+  
 
 ### Tech Stack and Tools: 
-
-</br>
 
 <div class="row" padding = "70";>
 <img alt="Flutter" src ="https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white&style=plastic"/>  
@@ -33,7 +31,8 @@
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=plastic"/>
 </div>
 
-### More About Me:
+  
+<!-- ### More About Me: -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kish-git&layout=compact&langs_count=8" alt="kish-git stats" /></p>
   
