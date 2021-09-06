@@ -46,8 +46,8 @@
 <a href="https://www.linkedin.com/in/kishor-raut-61a292158/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="50" /></a>
 <a href="https://twitter.com/Kishor_Raut__?s=08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="50" /></a>
 <a href="https://www.youtube.com/channel/UC0Ptq3lS1PIm9J0j4a0ER8A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="50" /></a>
-<a href="https://www.instagram.com/kishor._.raut/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="50" /></a>
-</p>
+<!-- <a href="https://www.instagram.com/kishor._.raut/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="50" /></a>
+</p> -->
 
 
 
