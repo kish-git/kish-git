@@ -10,7 +10,7 @@
 <b>_I'm currently undertaking a Bachelors in Computer Science from Sinhgad Academy of Engineering, Kondhwa - Pune._ <br/> _And my Overall CGPA is 8.9_
 <br/>
   
-- 🌱 At Present <b>Flutter Developer Intern</b> @Simba Developers.
+- 🌱 At Present, <b>Flutter Developer Intern</b> @Simba Developers.
 - 🥅 2021 Goals : To Practice Maximum Questions on DSA.👨🏻‍💻
 - ⚡ Fun fact : **Developer by Profession, Sportman by Heart.❤**
 
