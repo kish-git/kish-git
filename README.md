@@ -5,7 +5,7 @@
 - 💬 Ask me about -  C++, Flutter.
 - 📫 How to reach me - Drop an email at [kishorraut5326@gmail.com] 
 - ⚡ Fun fact - Exploring Latest Technologies. 
-- <b>Let's Connect and share Ideas 👇</b>  
+- 👇 <b>Let's Connect and share Ideas </b>  
 - <a href="https://www.linkedin.com/in/kishor-raut/">
   <img align="left" alt="Kishor's LinkedIn Profile" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
