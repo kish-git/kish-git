@@ -7,5 +7,5 @@
 - ⚡ Fun fact - Exploring Latest Technologies. 
 - 👇 <b>Let's Connect and share Ideas </b>  
 - <a href="https://www.linkedin.com/in/kishor-raut/">
-  <img align="left" alt="Kishor's LinkedIn Profile" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Kishor's LinkedIn Profile" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
