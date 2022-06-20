@@ -1,4 +1,4 @@
-## Hi there, I'm Kishor Raut <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm Kishor Raut👋🏻  <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1px">-->
 
 - 🔭 Currently learning <b>Salesforce.</b>  
 - 💬 Ask me about -  C++, Flutter and Salesforce.
