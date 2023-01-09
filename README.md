@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kishor Raut</h1>
 <h3 align="center">A passionate Salesforce Developer from India.</h3>
 
-- 🔭 Currently learning <b>Salesforce (LWC).</b>  
+- 🔭 <b>Trailhead RANGER</b>  
 - 💬 Ask me about -  C++, Flutter and Salesforce.
 - 📫 How to reach me - Drop an email at [kishorraut5326@gmail.com] 
 - ⚡ Fun fact - Exploring Latest Technologies. 
