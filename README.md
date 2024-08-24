@@ -39,7 +39,7 @@ I am a dedicated Salesforce professional with extensive experience in Salesforce
   - Designed and implemented integration solutions with external systems.
   - Administered Salesforce environments, including user management, security, and data management.
  
-- **Smart Bridge** | *Pune* | *Nov 2021 - Apr 2022*
+- **USD Services** | *Pune* | *Nov 2021 - Apr 2022*
   - Developed a ’Recruiting App’ using Declarative tools, Apex, Flows, and LWC. Which is used by Over 25k people so far.
   - Created Reports and customized Dashboards which led to a faster Business decision process.
   
