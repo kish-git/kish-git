@@ -45,10 +45,15 @@ I am a dedicated Salesforce professional with extensive experience in Salesforce
   
 ## 📜 Certifications
  
+![Salesforce PD1](https://img.shields.io/badge/Salesforce_Platform_Developer_1_(PD1)-00A1E0?logo=salesforce&logoColor=white)
+![Salesforce PD1](https://img.shields.io/badge/Salesforce_Platform_Developer_2_(PD2)-00A1E0?logo=salesforce&logoColor=white)
+![Salesforce PD1](https://img.shields.io/badge/JavaScript_Developer_1_(JD1)-00A1E0?logo=salesforce&logoColor=white)
+![Salesforce PD1](https://img.shields.io/badge/Data_Clould_Consultant-00A1E0?logo=salesforce&logoColor=white)
+![Salesforce App Builder](https://img.shields.io/badge/Salesforce_Platform_App_Builder-00A1E0?logo=salesforce&logoColor=white)
 ![Salesforce Associate](https://img.shields.io/badge/Salesforce_Associate-00A1E0?logo=salesforce&logoColor=white)
 ![Salesforce Admin](https://img.shields.io/badge/Salesforce_Admin-00A1E0?logo=salesforce&logoColor=white)
-![Salesforce App Builder](https://img.shields.io/badge/Salesforce_Platform_App_Builder-00A1E0?logo=salesforce&logoColor=white)
-![Salesforce PD1](https://img.shields.io/badge/Salesforce_Platform_Developer_1_(PD1)-00A1E0?logo=salesforce&logoColor=white)
+
+
  
 ## 📫 Contact
  
